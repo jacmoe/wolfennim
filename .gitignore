@@ -1,2 +1,10 @@
 jalleg
 wolfennim
+nim.cfg
+vendor/*/
+nimcache
+*.out
+.tool-versions
+nimble.develop
+nimble.paths
+deps
