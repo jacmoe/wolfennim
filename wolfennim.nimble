@@ -5,7 +5,7 @@ author        = "jacmoe"
 description   = "Old school graphics using Nim and Allegro5"
 license       = "MIT"
 srcDir        = "src"
-bin           = @["jalleg"]
+bin           = @["wolfennim"]
 
 
 # Dependencies
